@@ -1,0 +1,11 @@
+{
+  "name": "advent-of-code-2023",
+  "version": "0.0.0",
+  "repository": "https://github.com/laurenraddatz/advent-of-code-2023.git",
+  "author": "Lauren Raddatz <laurenkraddatz@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch 01/index.js"
+  }
+}
