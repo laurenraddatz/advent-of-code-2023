@@ -6,6 +6,6 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "start": "node --watch 08/index.js"
+    "start": "node --watch 07/index.js"
   }
 }
